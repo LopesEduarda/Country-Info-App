@@ -177,5 +177,3 @@ Invalid country codes are provided in the URL.
 The backend API returns an error.
 
 
-![alt text](image.png)
-![alt text](image-1.png)
