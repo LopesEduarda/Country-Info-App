@@ -18,7 +18,7 @@ Pages and Functionality
 ## 📥 Installation
 
 1. **Clone the repository**:
-   git clone https://github.com/LopesEduarda/Country-Info-App.git
+   git clone git@github.com:LopesEduarda/Country-Info-App.git
    cd Country-Info-App/backend
 
 
@@ -71,3 +71,7 @@ The application gracefully handles errors by displaying appropriate messages whe
 Data cannot be fetched due to network issues.
 Invalid country codes are provided in the URL.
 The backend API returns an error.
+
+
+![alt text](image.png)
+![alt text](image-1.png)
