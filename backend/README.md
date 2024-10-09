@@ -37,6 +37,9 @@ This is the backend of the **Country Info App**, an application that provides in
 Create a .env file in the backend folder and specify the desired port:
 
     PORT=5000
+    NAGER_BASE_URL=https://date.nager.at/api/v3
+    COUNTRIESNOW_POPULATION_URL=https://countriesnow.space/api/v0.1/countries/population
+    COUNTRIESNOW_FLAG_URL=https://countriesnow.space/api/v0.1/countries/flag/images
 
 
 ##  Running the Server
@@ -50,7 +53,7 @@ The backend will be available at http://localhost:5000.
 
 
 
-### Endpoints
+## Endpoints
 
 1. Get Available Countries
 Description: Returns a list of available countries.
