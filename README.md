@@ -102,7 +102,7 @@ Status Code: 404 Not Found
 
 
 
-# 🌍 Country Info API - Backend
+# 🌍 Country Info API - Frontend
 
 This is the frontend of the Country Info App, a web application that provides information about countries, including a list of available countries, demographics, borders, and flags. The project is built with React and Next.js and follows an organized structure with pages, components, and services.
 
