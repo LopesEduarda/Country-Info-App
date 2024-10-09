@@ -23,7 +23,7 @@ This is the backend of the **Country Info App**, an application that provides in
 ## 📥 Installation
 
 1. **Clone the repository**:
-   git clone https://github.com/LopesEduarda/Country-Info-App.git
+   git clone git@github.com:LopesEduarda/Country-Info-App.git
    cd Country-Info-App/backend
 
 
