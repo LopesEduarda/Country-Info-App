@@ -2,6 +2,7 @@
 
 This is the backend of the **Country Info App**, an application that provides information about countries, including a list of available countries, demographics, borders, and flags. The project is built with **Node.js** and **Express** and follows an organized structure with **controllers**, **services**, and **routes**.
 
+
 ## 📑 Table of Contents
 
 1. [Requirements](#requirements)
