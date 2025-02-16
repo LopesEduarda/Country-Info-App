@@ -16,7 +16,6 @@ This is the backend of the **Country Info App**, an application that provides in
 
 ---
 
-
 ## ⚙️ Requirements
 
 - **Node.js** v14+ (Node.js v21.6.1 recommended)
